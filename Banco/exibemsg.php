@@ -2,6 +2,6 @@
 
 function exibemsg (string $msg)
 {
-    echo $msg .PHP_EOL;
+    echo $msg .'<br>'.PHP_EOL;
 
 }
